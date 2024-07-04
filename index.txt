@@ -6,6 +6,7 @@ yoyo
 os
 sos
 special
+love
 [2조]
 [3조]
 [4조]
