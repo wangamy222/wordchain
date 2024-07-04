@@ -1,6 +1,7 @@
 [풀리퀘스]
 [1조]
 apple
+emergency 
 
 [2조]
 [3조]
