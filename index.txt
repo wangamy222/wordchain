@@ -3,6 +3,7 @@
 apple
 emergency 
 yoyo
+os
 [2조]
 [3조]
 [4조]
