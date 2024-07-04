@@ -5,6 +5,7 @@ emergency
 yoyo
 os
 sos
+special
 [2조]
 [3조]
 [4조]
